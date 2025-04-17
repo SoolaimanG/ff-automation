@@ -12,8 +12,8 @@ from datetime import datetime
 class FF:
     access_key: str
     user_data = {
-        "username": "08061450508",
-        "password": "$00laimanGee1ne"
+        "username": "",
+        "password": ""
     }
     tasks: List[Any]
     total_task = 20
